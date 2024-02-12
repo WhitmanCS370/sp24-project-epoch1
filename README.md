@@ -13,6 +13,7 @@ In Epoch 1, you will create software in Python that allows users to browse the s
 * A user must be able to listen to multiple sounds simultaneously (i.e., layer multiple sounds on top of each other).
 * A user must be able to listen to a sequence of sounds.
 * A user must be able to rename a sound.
+* These requirements may be met either with a single large command-line program that implements all of them, or by a suite of smaller command-line programs that focus on a subset of features.
 
 ## Implementation requirements:
 * You should write this program in Python using the simpleaudio package. You can assume that your user (in this case, Profs. Wirfs-Brock and Davis, who will be running your code) already have simpleaudio installed.
