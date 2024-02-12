@@ -3,7 +3,7 @@
 
 In Epoch 1, you will create software in Python that allows users to browse the sounds and play them back. This repository contains:
 * A set of sample audio files (in .wav format), in the sounds directory
-* Suggested ways to format your code, i.e. in a src directory and a test directory -- with sample python files for you to fill in.
+* Suggested ways to format your code, i.e. in a src directory and a test directory -- with sample python files for you to modify.
 
 ## Functional requirements:
 * A user must be able to interact with your program from the command line via a simple text-based interface.
