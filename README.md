@@ -27,6 +27,9 @@ In Epoch 1, you will create software in Python that allows users to browse the s
 * Your README should also include a short statement about how you tested your code.
 * Your README should also include a short reflection that includes (a) any challenges you encountered and how you tackled them, (b) how you anticipate modifying/changing your code in the future.
 
+## What to turn in:
+* Submit the link to your team's GitHub repository on Canvas (only one team member needs to do this).
+
 ## Grading criteria:
 * Meets expectations: Project contains complete code that meets stated functional requirements and runs  without errors. GitHub repositiory contains all necessary elements.
 * Exceeds expectations: Code shows exemplary organization (i.e. use of modules), exemplary testing (i.e. contains unit tests), or additional features (i.e. also supports .mp3 or other audio file types, has additional playback features, additional CLI features, etc.).
