@@ -3,7 +3,7 @@
 
 In Epoch 1, you will create software in Python that allows users to browse the sounds and play them back. This repository contains:
 * A set of sample audio files (in .wav format), in the sounds directory
-* Suggested ways to format your code, i.e. in a src directory and a test directory -- with sample python files for you to fill in.
+* Suggested ways to format your code, i.e. in a src directory and a test directory -- with sample python files for you to modify.
 
 ## Functional requirements:
 * A user must be able to interact with your program from the command line via a simple text-based interface.
@@ -13,6 +13,7 @@ In Epoch 1, you will create software in Python that allows users to browse the s
 * A user must be able to listen to multiple sounds simultaneously (i.e., layer multiple sounds on top of each other).
 * A user must be able to listen to a sequence of sounds.
 * A user must be able to rename a sound.
+* These requirements may be met either with a single large command-line program that implements all of them, or by a suite of smaller command-line programs that focus on a subset of features.
 
 ## Implementation requirements:
 * You should write this program in Python using the simpleaudio package. You can assume that your user (in this case, Profs. Wirfs-Brock and Davis, who will be running your code) already have simpleaudio installed.
@@ -26,6 +27,9 @@ In Epoch 1, you will create software in Python that allows users to browse the s
 * The README should also include instructions for how to run your command-line interface (i.e., a first sample command to enter to get additional instructions, some sample command-line instruction examples).
 * Your README should also include a short statement about how you tested your code.
 * Your README should also include a short reflection that includes (a) any challenges you encountered and how you tackled them, (b) how you anticipate modifying/changing your code in the future.
+
+## What to turn in:
+* Submit the link to your team's GitHub repository on Canvas (only one team member needs to do this).
 
 ## Grading criteria:
 * Meets expectations: Project contains complete code that meets stated functional requirements and runs  without errors. GitHub repositiory contains all necessary elements.
